@@ -93,7 +93,7 @@ Antes de empezar, te recomendamos seguir una serie de pasos.
 
 ## Fecha límite del entregable
 
-Cabe recarlacar que tienen un tiempo de 2 días hábiles para hacer la entrega de la misma, siendo la fecha límite el miércoles 18 de abril a las 11 am.
+Cabe recarlacar que tienen un tiempo de 2 días hábiles para hacer la entrega de la misma, siendo la fecha límite el miércoles 19 de abril a las 11 am.
 
 ## Información adicional
 
