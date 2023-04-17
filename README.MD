@@ -62,9 +62,12 @@ para su correcto funcionamiento. Puedes revisar los trabajos a realizar con el i
 
 Todos los trabajos están comentados con la palabra ``TODO``.
 
-## Pasos
+Ten en cuenta que para la API no es necesario instalar librerías adicionales, por defecto la prueba está lista para ser desarrollada. La web cuenta con
+una librería para correr de manera local el AngularJS.
 
-No es necesario instalar librerías adicionales, por defecto la prueba está lista para ser desarrollada, pero antes de empezar, te recomendamos seguir una serie de pasos.
+Antes de empezar, te recomendamos seguir una serie de pasos.
+
+## Pasos
 
 - I) Crea la base de datos utilizando el archivo "structure.sql". <br/>
 - II) En caso de ser necesario, modifica las credenciales de acceso a la base de datos en el controlador "DBContextController.php". <br/>
@@ -75,8 +78,9 @@ No es necesario instalar librerías adicionales, por defecto la prueba está lis
 - VII) Muestra las películas en el diseño de las tarjetas en la vista de las películas. <br/>
 - VIII) Agrega la lógica necesaria para el funcionamiento del buscador. <br/>
 - IX) Inicia la API de php usando el comando ``npm run start`` en la carpeta raíz de la API. <br/>
-- X) Realiza el respectivo CRUD para la visualización de los comentarios de las películas en la API de PHP. <br/>
-- XI) Conecta la API de PHP con la web. Recuerda que algunas películas pueden no tener comentarios aún, mientras que otras pueden tener uno o más comentarios.
+- X) Inicia la WEB usando el comando ``npm run start`` en la carpeta raíz de la WEB. <br/>
+- XI) Realiza el respectivo CRUD para la visualización de los comentarios de las películas en la API de PHP. <br/>
+- XII) Conecta la API de PHP con la web. Recuerda que algunas películas pueden no tener comentarios aún, mientras que otras pueden tener uno o más comentarios.
 
 ## Entregable esperado
 
@@ -89,10 +93,10 @@ No es necesario instalar librerías adicionales, por defecto la prueba está lis
 
 ## Fecha límite del entregable
 
-Cabe recarlacar que tienen un tiempo de 4 días hábiles para hacer la entrega de la misma, siendo la fecha límite el jueves 30 de marzo.
+Cabe recarlacar que tienen un tiempo de 2 días hábiles para hacer la entrega de la misma, siendo la fecha límite el martes 18 de abril a las 12 de la noche.
 
 ## Información adicional
 
-Una vez finalizada la prueba, deberá subir el proyecto en su propio repositorio de git de forma pública y enviar el link al correo aospina@garantiascomunitarias.com, con el asunto POSTULADO RED SOPORTE TECNOLÓGICO, además deberá incluir sus datos personales como nombre, cédula y contacto.
+Una vez finalizada la prueba, deberá subir el proyecto en su propio repositorio de git de forma pública y enviar el link al correo jclopezm@garantiascomunitarias.com, con el asunto POSTULADO RED SOPORTE TECNOLÓGICO, además deberá incluir sus datos personales como nombre, cédula y contacto.
 
 Nuestro equipo de trabajo desarrolló este proyecto con el propósito de filtrar la gran cantidad de solicitudes que recibimos para este puesto y facilitar el proceso de selección. Agradecemos tu interés y esperamos que este proceso sea beneficioso tanto para nosotros como para ti.
